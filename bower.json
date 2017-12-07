@@ -1,0 +1,25 @@
+{
+  "name": "meanapp",
+  "description": "Project using Mean Sturcture MVC",
+  "main": "server.js",
+  "authors": [
+    "Nav"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Mean",
+    "App"
+  ],
+  "homepage": "https://github.com/Dev-dave1/MeanApp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.3",
+    "angular-material": "^1.1.5"
+  }
+}

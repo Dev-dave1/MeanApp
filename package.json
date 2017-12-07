@@ -1,0 +1,31 @@
+{
+  "name": "meanapp",
+  "version": "1.0.0",
+  "description": "Project using Mean Sturcture MVC",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-dave1/MeanApp.git"
+  },
+  "keywords": [
+    "Mean",
+    "App"
+  ],
+  "author": "Nav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev-dave1/MeanApp/issues"
+  },
+  "homepage": "https://github.com/Dev-dave1/MeanApp#readme",
+  "dependencies": {
+    "angular-material": "^1.1.5",
+    "bower": "^1.8.2",
+    "express": "^4.16.2",
+    "gulp": "^3.9.1",
+    "monk": "^6.0.5",
+    "nodemon": "^1.12.5"
+  }
+}
